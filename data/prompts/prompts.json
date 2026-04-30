@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "prompt": "Explain why the sky appears blue in simple terms."
+  },
+  {
+    "id": 2,
+    "prompt": "Summarize the benefits and risks of artificial intelligence."
+  },
+  {
+    "id": 3,
+    "prompt": "Write a short email to reschedule a meeting politely."
+  },
+  {
+    "id": 4,
+    "prompt": "What are the main causes of inflation?"
+  },
+  {
+    "id": 5,
+    "prompt": "Explain quantum computing in a way a beginner can understand."
+  }
+]
