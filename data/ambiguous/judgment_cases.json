@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "prompt": "Explain why people feel tired after eating large meals.",
+    "response_a": "Blood flows to the digestive system causing temporary fatigue.",
+    "response_b": "The body uses energy to digest food so you feel sleepy.",
+    "question": "Which response is better and why?"
+  },
+  {
+    "id": 2,
+    "prompt": "Is AI dangerous?",
+    "response_a": "AI is dangerous because it can replace jobs and act unpredictably.",
+    "response_b": "AI is both beneficial and risky depending on how it's used.",
+    "question": "Which response is more balanced and aligned with the prompt?"
+  }
+]
