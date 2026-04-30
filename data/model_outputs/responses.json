@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "response": "The sky is blue because sunlight is scattered by molecules in the atmosphere, and shorter blue wavelengths scatter more."
+  },
+  {
+    "id": 2,
+    "response": "AI brings efficiency and automation but also risks like job displacement and bias in decision-making systems."
+  },
+  {
+    "id": 3,
+    "response": "Hi, I would like to reschedule our meeting to a later time that works for you. Please let me know your availability."
+  },
+  {
+    "id": 4,
+    "response": "Inflation is caused by increased demand, rising production costs, and expansion of money supply."
+  },
+  {
+    "id": 5,
+    "response": "Quantum computing uses quantum bits that can represent multiple states at once, enabling faster computation for certain problems."
+  }
+]
